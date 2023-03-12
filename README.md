@@ -1,6 +1,6 @@
 #springboot-h2db-hibernate-MusicLibrary
 
-
+Music Library Application:
 
 This application is a music library that allows users to organise their music collection. It is a RESTful API that allows
 users to perform CRUD (Create, Read, Update, Delete) operations on songs. It was developed using Java, Spring Boot,
